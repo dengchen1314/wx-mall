@@ -1,2 +1,2 @@
 # wx-mall
-wx mini mall
+wx mall is a wx mini program.
